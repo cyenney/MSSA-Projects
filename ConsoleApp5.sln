@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "feet to inches", "ConsoleApp5\feet to inches.csproj", "{FA3DD913-3BBC-4378-9F32-EE01AFE1707A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "greather than or less than", "greather than or less than\greather than or less than.csproj", "{AF8C451E-A495-47FD-983B-BD0C39C04B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3DD913-3BBC-4378-9F32-EE01AFE1707A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3DD913-3BBC-4378-9F32-EE01AFE1707A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3DD913-3BBC-4378-9F32-EE01AFE1707A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3DD913-3BBC-4378-9F32-EE01AFE1707A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8C451E-A495-47FD-983B-BD0C39C04B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8C451E-A495-47FD-983B-BD0C39C04B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8C451E-A495-47FD-983B-BD0C39C04B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8C451E-A495-47FD-983B-BD0C39C04B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7EF3D9B-23E9-41C2-8ECF-D5FA18149042}
+	EndGlobalSection
+EndGlobal
