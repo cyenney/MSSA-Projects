@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\FeetToInches\FeetToInches\bin\Debug\FeetToInches.exe.config
+C:\Users\coyenney\source\repos\FeetToInches\FeetToInches\bin\Debug\FeetToInches.exe
+C:\Users\coyenney\source\repos\FeetToInches\FeetToInches\bin\Debug\FeetToInches.pdb
+C:\Users\coyenney\source\repos\FeetToInches\FeetToInches\obj\Debug\FeetToInches.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\FeetToInches\FeetToInches\obj\Debug\FeetToInches.exe
+C:\Users\coyenney\source\repos\FeetToInches\FeetToInches\obj\Debug\FeetToInches.pdb

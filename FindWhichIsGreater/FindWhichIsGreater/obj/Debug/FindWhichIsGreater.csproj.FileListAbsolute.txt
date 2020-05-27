@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\FindWhichIsGreater\FindWhichIsGreater\bin\Debug\FindWhichIsGreater.exe.config
+C:\Users\coyenney\source\repos\FindWhichIsGreater\FindWhichIsGreater\bin\Debug\FindWhichIsGreater.exe
+C:\Users\coyenney\source\repos\FindWhichIsGreater\FindWhichIsGreater\bin\Debug\FindWhichIsGreater.pdb
+C:\Users\coyenney\source\repos\FindWhichIsGreater\FindWhichIsGreater\obj\Debug\FindWhichIsGreater.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\FindWhichIsGreater\FindWhichIsGreater\obj\Debug\FindWhichIsGreater.exe
+C:\Users\coyenney\source\repos\FindWhichIsGreater\FindWhichIsGreater\obj\Debug\FindWhichIsGreater.pdb
