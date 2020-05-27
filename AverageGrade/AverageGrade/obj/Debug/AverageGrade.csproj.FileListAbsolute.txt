@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\AverageGrade\AverageGrade\bin\Debug\AverageGrade.exe.config
+C:\Users\coyenney\source\repos\AverageGrade\AverageGrade\bin\Debug\AverageGrade.exe
+C:\Users\coyenney\source\repos\AverageGrade\AverageGrade\bin\Debug\AverageGrade.pdb
+C:\Users\coyenney\source\repos\AverageGrade\AverageGrade\obj\Debug\AverageGrade.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\AverageGrade\AverageGrade\obj\Debug\AverageGrade.exe
+C:\Users\coyenney\source\repos\AverageGrade\AverageGrade\obj\Debug\AverageGrade.pdb
