@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\reverseArray\reverseArray\bin\Debug\reverseArray.exe.config
+C:\Users\coyenney\source\repos\reverseArray\reverseArray\bin\Debug\reverseArray.exe
+C:\Users\coyenney\source\repos\reverseArray\reverseArray\bin\Debug\reverseArray.pdb
+C:\Users\coyenney\source\repos\reverseArray\reverseArray\obj\Debug\reverseArray.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\reverseArray\reverseArray\obj\Debug\reverseArray.exe
+C:\Users\coyenney\source\repos\reverseArray\reverseArray\obj\Debug\reverseArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\SumOf10Numbers\SumOf10Numbers\bin\Debug\SumOf10Numbers.exe.config
+C:\Users\coyenney\source\repos\SumOf10Numbers\SumOf10Numbers\bin\Debug\SumOf10Numbers.exe
+C:\Users\coyenney\source\repos\SumOf10Numbers\SumOf10Numbers\bin\Debug\SumOf10Numbers.pdb
+C:\Users\coyenney\source\repos\SumOf10Numbers\SumOf10Numbers\obj\Debug\SumOf10Numbers.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\SumOf10Numbers\SumOf10Numbers\obj\Debug\SumOf10Numbers.exe
+C:\Users\coyenney\source\repos\SumOf10Numbers\SumOf10Numbers\obj\Debug\SumOf10Numbers.pdb

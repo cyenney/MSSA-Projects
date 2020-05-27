@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\ClockAngle\ClockAngle\bin\Debug\ClockAngle.exe.config
+C:\Users\coyenney\source\repos\ClockAngle\ClockAngle\bin\Debug\ClockAngle.exe
+C:\Users\coyenney\source\repos\ClockAngle\ClockAngle\bin\Debug\ClockAngle.pdb
+C:\Users\coyenney\source\repos\ClockAngle\ClockAngle\obj\Debug\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\ClockAngle\ClockAngle\obj\Debug\ClockAngle.exe
+C:\Users\coyenney\source\repos\ClockAngle\ClockAngle\obj\Debug\ClockAngle.pdb

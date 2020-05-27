@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\SortsArray\SortsArray\bin\Debug\SortsArray.exe.config
+C:\Users\coyenney\source\repos\SortsArray\SortsArray\bin\Debug\SortsArray.exe
+C:\Users\coyenney\source\repos\SortsArray\SortsArray\bin\Debug\SortsArray.pdb
+C:\Users\coyenney\source\repos\SortsArray\SortsArray\obj\Debug\SortsArray.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\SortsArray\SortsArray\obj\Debug\SortsArray.exe
+C:\Users\coyenney\source\repos\SortsArray\SortsArray\obj\Debug\SortsArray.pdb
