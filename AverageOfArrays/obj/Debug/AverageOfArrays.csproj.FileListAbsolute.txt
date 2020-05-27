@@ -1,0 +1,6 @@
+C:\Users\coyenney\source\repos\AverageOfArrays\AverageOfArrays\bin\Debug\AverageOfArrays.exe.config
+C:\Users\coyenney\source\repos\AverageOfArrays\AverageOfArrays\bin\Debug\AverageOfArrays.exe
+C:\Users\coyenney\source\repos\AverageOfArrays\AverageOfArrays\bin\Debug\AverageOfArrays.pdb
+C:\Users\coyenney\source\repos\AverageOfArrays\AverageOfArrays\obj\Debug\AverageOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\coyenney\source\repos\AverageOfArrays\AverageOfArrays\obj\Debug\AverageOfArrays.exe
+C:\Users\coyenney\source\repos\AverageOfArrays\AverageOfArrays\obj\Debug\AverageOfArrays.pdb
